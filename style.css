@@ -77,3 +77,9 @@ button:hover {
     margin-top: 10px;
 }
 
+@media (max-width: 768px) {
+    #numInput, #numInputsec {
+        font-size: 16px;
+    }
+}
+
